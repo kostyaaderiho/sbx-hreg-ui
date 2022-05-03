@@ -1,0 +1,21 @@
+{
+    "card_approved_status": "Approved",
+    "card_archived_status": "Archived",
+    "card_pending_status": "In progress",
+    "card_info_label_telescope": "Telescope",
+    "card_info_label_skype": "Skype",
+    "card_info_label_linkidin": "LinkedIn",
+    "card_info_label_github": "Github",
+    "card_info_label_dribbble": "Dribbble",
+    "card_info_label_behance": "Behance",
+    "card_info_label_heroes": "Heroes",
+    "card_info_label_telegram": "Telegram",
+    "card_newcomer_self_introduction_placeholder": "Newcomer's story",
+    "card_recognition_recognize_message_placeholder": "Recognize message",
+    "card_recognition_personal_message_placeholder": "Personal message",
+
+    "header_archive_button": "Archive",
+    "header_report_button": "Report",
+    "header_generate_email_button": "Generate email",
+    "header_logout_button": "Logout"
+}
