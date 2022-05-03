@@ -41,6 +41,9 @@
         "prepare": "husky install",
         "type:check": "tsc --noEmit"
     },
+    "lint-staged": {
+        "*.{ts,tsx}": "npm run lint:eslint"
+    },
     "browserslist": {
         "production": [
             ">0.2%",
@@ -68,7 +71,7 @@
         "eslint-plugin-storybook": "^0.5.11",
         "http-proxy-middleware": "^2.0.6",
         "husky": "^7.0.4",
-        "lint-staged": "^12.4.1",
+        "lint-staged": "^12.1.2",
         "prettier": "^2.6.2",
         "react-app-alias": "^2.2.0",
         "react-app-rewired": "^2.2.1",

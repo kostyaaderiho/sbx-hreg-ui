@@ -25,6 +25,8 @@ type AppProps = {
     store: typeof appStore;
 };
 
+console.log();
+
 export const App: React.FC<AppProps> = ({ store }) => (
     <MuiThemeProvider theme={AppTheme}>
         <CssBaseline />
